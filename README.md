@@ -14,6 +14,9 @@ Análise exploratória de dados financeiros de empresas norte-americanas (1999-2
 - Criar dashboard interativo com métricas financeiras críticas
 - Desenvolver visualizações claras
 
+🔗 **Dashboard no Power BI:** [Clique aqui para visualizar](https://app.powerbi.com/view?r=eyJrIjoiODQyZjc1NjgtNWU1ZC00NGMyLTlmOGEtODEwZGRhOGYyMjlkIiwidCI6IjFlZTEwZjk4LWRiMDUtNGE4OS1hNzAzLTM4NDIyNDBmZGQ2MiJ9)  
+
+
   
 ### 📊 Principais Insights
 ✅ Empresas falidas apresentam liquidez mais baixa (Current Ratio e Quick Ratio)
